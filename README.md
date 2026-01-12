@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ltlbee
-- 👀 I’m interested in design.
-- 🌱 I’m currently learning html and css to help me with my UI&UX design.
+- 👀 I’m a Graphic & Motion designer.
+- 🌱 I’m learning java scrypt to help me with expression in AE.
 - 💞️ I’m looking to collaborate on anything design related.
 - 📫 How to reach me ... who knows? :)
 
